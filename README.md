@@ -53,6 +53,9 @@ Internal tool that allows teams to create and manage dynamic IT forms.
   <a href="#" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
+   <a href="#" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter (X)" />
+  </a>
 </p>
 
 ---
