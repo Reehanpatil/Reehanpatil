@@ -41,6 +41,25 @@ Internal tool that allows teams to create and manage dynamic IT forms.
 
 ---
 
+# 📊 GitHub Activity
+
+[![Reehan Patil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Reehanpatil&bg_color=0a0f1c&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true)](https://github.com/Reehanpatil)
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Reehanpatil&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reehanpatil&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reehanpatil&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+
 ### 🌐 Connect With Me  
 
 <p align="center">
