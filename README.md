@@ -1,85 +1,152 @@
-<!-- 👋 Hey, I'm Reehan MP -->
+<!-- ========================= -->
+<!--        HERO SECTION       -->
+<!-- ========================= -->
 
-<h1 align="center">Hi 👋, I'm Reehan MP</h1>
-<h3 align="center">🚀 Front-End Developer | Crafting Clean, Modern & Interactive Web Experiences</h3>
+<h1 align="center">
+  Hey 👋, I'm Reehan MP
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ReehanMP&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Front-End+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Building+Modern+Web+Experiences;Crafting+Beautiful+User+Interfaces" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Reehanpatil&label=Profile+Views&color=38bdf8&style=for-the-badge" />
 </p>
 
 ---
 
-### 🧠 About Me  
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWN1dW1nN3FhNjJwYWFjdmI0Mm1vYTVlOGVpdWl5Y3B2aGFhbnl6biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
-💻 Passionate about building **beautiful, fast, and accessible** web applications.  
-🎨 I love bringing designs to life with **React**, **Tailwind CSS**, and **Framer Motion**.  
-🌱 Currently learning **Next.js** and **TypeScript** to craft more scalable solutions.  
-⚙️ Focused on writing **clean code**, **pixel-perfect UI**, and **smooth UX**.  
-📫 Reach me at **reehanpatil7@gmail.com**  
+## 🚀 About Me
+
+💻 Passionate Front-End Developer focused on creating modern, responsive, and high-performance web applications.
+
+🎨 Turning ideas into beautiful digital experiences using React and Tailwind CSS.
+
+🌱 Currently exploring:
+- Next.js
+- TypeScript
+- Framer Motion
+- Full Stack Development
+
+⚡ What I enjoy:
+- Clean UI Design
+- Smooth Animations
+- Performance Optimization
+- User Experience Design
+
+📫 Reach Me:
+**reehanpatil7@gmail.com**
 
 ---
 
-### 🧰 Tech Stack  
+## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,typescript,mongodb,nodejs,express,git,github,vscode,figma" />
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,vite" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-### 📂 Featured Projects  
+## 📂 Featured Projects
 
-#### 🌟 **Portfolio Website**
-A modern, animated portfolio built with **React + Tailwind + Framer Motion**.  
-🎨 Smooth animations, dark theme, and mobile-friendly design.  
-🔗 [View Live Project](https://reehan-portfolio.netlify.app/) | [Source Code](https://github.com/Reehanpatil/reehan-portfolio.git)
+### 🌟 Portfolio Website
 
-#### 🧩 **Dynamic Form Builder**
-Internal tool that allows teams to create and manage dynamic IT forms.  
-🧠 Built with **JavaScript**, **Tailwind**, and **PHP (Redaxo CMS)**.  
-🔗 [Source Code](#)
+🚀 Modern Portfolio built with React, Tailwind CSS & Framer Motion
+
+✨ Features:
+- Dark Mode
+- Smooth Animations
+- Responsive Design
+- Interactive UI
+
+🔗 Live Demo:
+https://reehan-portfolio.netlify.app/
 
 ---
 
-# 📊 GitHub Activity
+### 🧩 Dynamic Form Builder
 
-[![Reehan Patil's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Reehanpatil&bg_color=0a0f1c&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true)](https://github.com/Reehanpatil)
+Internal tool for creating and managing dynamic IT forms.
 
-# 📈 GitHub Stats
+🛠 Tech Used:
+- JavaScript
+- Tailwind CSS
+- PHP
+- Redaxo CMS
+
+---
+
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Reehanpatil&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reehanpatil&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" />
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reehanpatil&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reehanpatil&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reehanpatil&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reehanpatil&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Reehanpatil&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
+---
 
-### 🌐 Connect With Me  
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <a href="https://github.com/Reehanpatil">
+    <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+
+  <a href="https://instagram.com/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-   <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter (X)" />
+
+  <a href="mailto:reehanpatil7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### ✨ Fun Fact  
-> I believe the best UIs are the ones that make users *feel something* — simple, fast, and delightful ❤️  
+## ✨ Fun Fact
 
----
+> I don't just build websites.
+> I craft experiences that users remember.
+
+⭐ If you like my work, consider following my journey on GitHub.
